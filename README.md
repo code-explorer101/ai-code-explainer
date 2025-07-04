@@ -24,8 +24,9 @@ It explains what a given code snippet does and tells if there are any bugs.
 ## 🚀 Run the App
 
 ### On Streamlit Cloud
-You can directly run the app online *
-LINK🔗:https://ai-code-explainer-ietm36pahugk5auxhd2vdg.streamlit.app/ *
+You can directly run the app online 
+
+LINK🔗:https://ai-code-explainer-ietm36pahugk5auxhd2vdg.streamlit.app/ 
 
 ### To run locally:
 
